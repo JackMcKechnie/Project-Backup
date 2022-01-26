@@ -1,0 +1,78 @@
+adjective_density.ipynb
+rough_timetable.txt
+4.10.21 Meeting notes.txt
+4.10.21 Reading List.csv
+11.10.21 meeting.txt
+Baseline Comparisons.csv
+message_about_baselines.txt
+src/spelling_and_grammar.ipynb
+types of NNs.txt
+src/deep_learning/glove.6B.50d.txt
+src/deep_learning/glove.6B.100d.txt
+src/deep_learning/glove.6B.200d.txt
+src/deep_learning/glove.6B.300d.txt
+src/deep_learning/training vs testing loss.png
+src/deep_learning/bert_tests/Epochs - 1 Batch Size - 32.jpeg
+src/deep_learning/bert_tests/Epochs - 1 Batch Size - 64.jpeg
+src/deep_learning/bert_tests/Epochs - 2 Batch Size - 32.jpeg
+src/deep_learning/bert_tests/Epochs - 2 Batch Size - 64.jpeg
+src/deep_learning/bert_tests/Epochs - 3 Batch Size - 32.jpeg
+src/deep_learning/bert_tests/Epochs - 3 Batch Size - 64.jpeg
+src/deep_learning/bert_tests/Epochs - 4 Batch Size - 32.jpeg
+src/deep_learning/bert_tests/Epochs - 4 Batch Size - 64.jpeg
+src/deep_learning/bert_tests/Epochs - 8 Batch Size - 32.jpeg
+src/deep_learning/bert_tests/Epochs - 8 Batch Size - 64.jpeg
+src/deep_learning/bert_tests/pretrained.h5
+src/deep_learning/bert_tests/normalised.h5
+src/deep_learning/bert_tests/model.h5
+src/deep_learning/bert_tests/average.h5
+src/deep_learning/bert_tests/bertissimo.h5
+src/deep_learning/bert_tests/bertissimo/keras_metadata.pb
+src/deep_learning/bert_tests/bertissimo/saved_model.pb
+src/deep_learning/bert_tests/bertissimo/assets/vocab.txt
+src/deep_learning/bert_tests/bertissimo/variables/variables.data-00000-of-00001
+src/deep_learning/bert_tests/bertissimo/variables/variables.index
+src/sensitivity_classification/aclImdb/
+src/sensitivity_classification/test_save/keras_metadata.pb
+src/sensitivity_classification/test_save/saved_model.pb
+src/sensitivity_classification/test_save/assets/vocab.txt
+src/sensitivity_classification/test_save/variables/variables.data-00000-of-00001
+src/sensitivity_classification/test_save/variables/variables.index
+src/deep_learning/bert_small_e20_b32/keras_metadata.pb
+src/deep_learning/bert_small_e20_b32/saved_model.pb
+src/deep_learning/bert_small_e20_b32/assets/vocab.txt
+src/deep_learning/bert_small_e20_b32/variables/variables.data-00000-of-00001
+src/deep_learning/bert_small_e20_b32/variables/variables.index
+src/deep_learning/bertissimo/keras_metadata.pb
+src/deep_learning/bertissimo/saved_model.pb
+src/deep_learning/bertissimo/assets/vocab.txt
+src/deep_learning/bertissimo/variables/variables.data-00000-of-00001
+src/deep_learning/bertissimo/variables/variables.index
+src/sensitivity_classification/aclImdb_v1.tar.gz
+src/sensitivity_classification/1.csv
+src/sensitivity_classification/2.csv
+src/sensitivity_classification/3.csv
+src/sensitivity_classification/4.csv
+src/sensitivity_classification/5.csv
+src/sensitivity_classification/6.csv
+src/sensitivity_classification/7.csv
+src/sensitivity_classification/8.csv
+src/sensitivity_classification/9.csv
+src/sensitivity_classification/longformer-base-4096/config.json
+src/sensitivity_classification/longformer-base-4096/pytorch_model.bin
+data/sensitivity_data/sensitivity_dataset.csv
+Screenshots/Screenshot 2021-11-23 190647.png
+Screenshots/Screenshot 2021-11-25 191604.png
+Screenshots/Screenshot 2021-11-26 105939.png
+Screenshots/Screenshot 2021-11-27 082452.png
+Screenshots/Screenshot 2021-11-27 211054.png
+2319658M - Jack McKechnie -  December Status Report.pdf
+src/sensitivity_classification/glove.6B.300d.word2vec
+src/sensitivity_classification/All formalities - chunks of 100.csv
+src/sensitivity_classification/All formalities - chunks of 100.csv.bak
+src/sensitivity_classification/All formalities - chunks of 250.csv
+src/sensitivity_classification/All formalities - chunks of 250.csv.bak
+src/sensitivity_classification/all_formalities_preprocessed_250.csv
+src/sensitivity_classification/All formalities - chunks of 100.csv
+src/sensitivity_classification/All formalities - chunks of 100.csv
+src/sensitivity_classification/All formalities - chunks of 100.csv
