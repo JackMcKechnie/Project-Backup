@@ -216,4 +216,4 @@
  - 3 Hours - Redoing BERT start and end truncated with AdamW optimiser 
  - 0.5 Hours - Status report
  - 2 Hours - Longformer attempt 2 (Batch size 1)
- - 0.5 Hours Status report
+ - 0.5 Hours Status report 
